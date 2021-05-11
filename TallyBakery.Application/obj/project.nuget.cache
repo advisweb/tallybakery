@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NTLo5Prd4ugip3PN3XLJcYC29i/fIkZ49e4bv1q+ftBjeLwu2na3bV0yE/MGSXsEU+85KOr+4O4j/J2M/CD3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AdityaWardhana\\source\\repos\\TallyBakery\\TallyBakery.Application\\TallyBakery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdityaWardhana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
