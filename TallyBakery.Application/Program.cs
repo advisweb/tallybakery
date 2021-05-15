@@ -6,7 +6,10 @@ namespace TallyBakery
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProductRepository repo = new ProductRepository();
+            repo.InitializeDatabase();
+
+            Console.ReadLine("Please enter your order (10 VS5)");
         }
     }
 }

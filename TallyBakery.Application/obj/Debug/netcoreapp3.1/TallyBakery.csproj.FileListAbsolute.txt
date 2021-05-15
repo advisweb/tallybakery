@@ -1,0 +1,4 @@
+/Users/adityawardhana/tallybakery/TallyBakery.Application/obj/Debug/netcoreapp3.1/TallyBakery.csprojAssemblyReference.cache
+/Users/adityawardhana/tallybakery/TallyBakery.Application/obj/Debug/netcoreapp3.1/TallyBakery.AssemblyInfoInputs.cache
+/Users/adityawardhana/tallybakery/TallyBakery.Application/obj/Debug/netcoreapp3.1/TallyBakery.AssemblyInfo.cs
+/Users/adityawardhana/tallybakery/TallyBakery.Application/obj/Debug/netcoreapp3.1/TallyBakery.csproj.CoreCompileInputs.cache

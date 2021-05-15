@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LSt3RpLTcNTMJaGiBAB1FuUw78jWHXSZ/WB7A7rT9GLHGUTERrN4VTxfLHk15D2bJ5fPYMFGyjYX54Q2I7P1/w==",
+  "dgSpecHash": "WmLp05+TX9hCd9RuYbh8lbTjEoVha05RkTfmBimKrKWIZy7JnxYSfh7QUfx8NNmJcIWjix9yY3/yfN83K+Gkkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AdityaWardhana\\source\\repos\\TallyBakery\\TallyBakery.Application.Core\\TallyBakery.Application.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/adityawardhana/tallybakery/TallyBakery.Application.Core/TallyBakery.Application.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/adityawardhana/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/adityawardhana/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/adityawardhana/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

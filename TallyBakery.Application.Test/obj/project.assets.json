@@ -4615,31 +4615,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AdityaWardhana\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/adityawardhana/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdityaWardhana\\source\\repos\\TallyBakery\\TallyBakery.Application.Test\\TallyBakery.Application.Test.csproj",
+      "projectUniqueName": "/Users/adityawardhana/tallybakery/TallyBakery.Application.Test/TallyBakery.Application.Test.csproj",
       "projectName": "TallyBakery.Application.Test",
-      "projectPath": "C:\\Users\\AdityaWardhana\\source\\repos\\TallyBakery\\TallyBakery.Application.Test\\TallyBakery.Application.Test.csproj",
-      "packagesPath": "C:\\Users\\AdityaWardhana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdityaWardhana\\source\\repos\\TallyBakery\\TallyBakery.Application.Test\\obj\\",
+      "projectPath": "/Users/adityawardhana/tallybakery/TallyBakery.Application.Test/TallyBakery.Application.Test.csproj",
+      "packagesPath": "/Users/adityawardhana/.nuget/packages/",
+      "outputPath": "/Users/adityawardhana/tallybakery/TallyBakery.Application.Test/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\AdityaWardhana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/adityawardhana/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4681,12 +4674,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
