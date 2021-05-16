@@ -13,4 +13,10 @@
     <ProjectReference Include="..\TallyBakery.Application.Core\TallyBakery.Application.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="db.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

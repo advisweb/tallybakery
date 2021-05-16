@@ -1,5 +1,5 @@
 ﻿using System;
-using TallyBakery.Application.Core;
+using TallyBakery.Application.Core.Products.Services;
 
 namespace TallyBakery
 {
@@ -15,10 +15,10 @@ namespace TallyBakery
             var qty = int.Parse(parts[0]);
             var code = parts[1];
 
-            ProductRepository repo = new ProductRepository();
+            ProductServices repo = new ProductServices();
             repo.Initialization();
+            repo.GetCheapestPriceBreaks(code, qty);
 
-            repo.GetMaxPriceBreakByProduct(code, qty);
             //display max price breaks
         }
     }
