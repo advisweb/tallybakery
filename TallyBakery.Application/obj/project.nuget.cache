@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pcES9kC6bbdS8y+rR1mWTOjI8kkmIpsu7d0Uvz0hdtT+aqsgo1akZUimy+FuU6BTgBU96LSp9NYEc7VlDMPFDA==",
+  "dgSpecHash": "UIvalbTdo+n6Lco2toSU/o4o3jW8nK6TE+7l2YgmHkBln/9i1rirfgwv0h8MYOeLJU6IOj3NTi9/1meX4UMaag==",
   "success": true,
-  "projectFilePath": "/Users/adityawardhana/tallybakery/TallyBakery.Application/TallyBakery.csproj",
+  "projectFilePath": "C:\\Users\\AdityaWardhana\\source\\repos\\TallyBakery\\TallyBakery.Application\\TallyBakery.csproj",
   "expectedPackageFiles": [
-    "/Users/adityawardhana/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
-    "/Users/adityawardhana/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/adityawardhana/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\AdityaWardhana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\AdityaWardhana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }
