@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallyBakery", "TallyBakery.csproj", "{36F14E5E-A542-417E-AC7D-BB5BDC4966B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TallyBakery", "TallyBakery.csproj", "{36F14E5E-A542-417E-AC7D-BB5BDC4966B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallyBakery.Application.Test", "..\TallyBakery.Application.Test\TallyBakery.Application.Test.csproj", "{783828E7-0178-4E03-B77E-30BA07632D80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TallyBakery.Application.Test", "..\TallyBakery.Application.Test\TallyBakery.Application.Test.csproj", "{783828E7-0178-4E03-B77E-30BA07632D80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallyBakery.Application.Core", "..\TallyBakery.Application.Core\TallyBakery.Application.Core.csproj", "{FFBB832F-5F45-477F-A602-4674A7EAFBD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TallyBakery.Application.Core", "..\TallyBakery.Application.Core\TallyBakery.Application.Core.csproj", "{FFBB832F-5F45-477F-A602-4674A7EAFBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallyBakery.Application.Persistence", "..\TallyBakery.Application.Persistence\TallyBakery.Application.Persistence.csproj", "{9FE1EE67-F32D-4754-A0EF-E5F82D31A319}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FFBB832F-5F45-477F-A602-4674A7EAFBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFBB832F-5F45-477F-A602-4674A7EAFBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFBB832F-5F45-477F-A602-4674A7EAFBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE1EE67-F32D-4754-A0EF-E5F82D31A319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE1EE67-F32D-4754-A0EF-E5F82D31A319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE1EE67-F32D-4754-A0EF-E5F82D31A319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE1EE67-F32D-4754-A0EF-E5F82D31A319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

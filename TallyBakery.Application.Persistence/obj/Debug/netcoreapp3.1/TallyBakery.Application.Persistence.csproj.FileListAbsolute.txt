@@ -1,0 +1,9 @@
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\bin\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.deps.json
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\bin\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.dll
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\bin\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.pdb
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\obj\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.AssemblyInfoInputs.cache
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\obj\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.AssemblyInfo.cs
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\obj\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\obj\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.dll
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\obj\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.pdb
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Persistence\obj\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.csprojAssemblyReference.cache

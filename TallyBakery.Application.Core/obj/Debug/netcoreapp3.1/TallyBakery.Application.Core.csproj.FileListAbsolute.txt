@@ -10,9 +10,12 @@
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\bin\Debug\netcoreapp3.1\TallyBakery.Application.Core.deps.json
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\bin\Debug\netcoreapp3.1\TallyBakery.Application.Core.dll
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\bin\Debug\netcoreapp3.1\TallyBakery.Application.Core.pdb
-C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.csprojAssemblyReference.cache
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.AssemblyInfoInputs.cache
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.AssemblyInfo.cs
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.csproj.CoreCompileInputs.cache
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.dll
 C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.pdb
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.csprojAssemblyReference.cache
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\bin\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.dll
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\bin\Debug\netcoreapp3.1\TallyBakery.Application.Persistence.pdb
+C:\Users\AdityaWardhana\source\repos\TallyBakery\TallyBakery.Application.Core\obj\Debug\netcoreapp3.1\TallyBakery.Application.Core.csproj.CopyComplete
