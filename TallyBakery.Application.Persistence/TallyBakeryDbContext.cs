@@ -10,7 +10,7 @@ namespace TallyBakery.Application.Persistence
     public class TallyBakeryDbContext<T> : ITallyBakeryDbContext
     {
         private List<T> Products { get; set; }
-        public IQueryable GetProducts() { return this.Products.AsQueryable(); }
+        public IQueryable GetProducts() { return this.Products.AsQueryable(); }       
 
         public TallyBakeryDbContext()
         {
